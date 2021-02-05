@@ -14,3 +14,21 @@ body {
   .title {
       font-size: 150%;
   }
+
+  main {
+      display: flex;
+      flex-wrap: wrap;
+      flex: 1 1 200px;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+
+  .img-container {
+      max-width: 300px;
+      max-height: 300px;
+  }
+
+  .img-size {
+      height: 100%;
+      width: 100%;
+  }
