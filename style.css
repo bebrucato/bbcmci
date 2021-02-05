@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+ header {
+     background-color: #636363;
+     padding: 20px;
+     text-align: center;
+     color: aliceblue;
+     font-size: ;
+ }
+  .title {
+      font-size: 150%;
+  }
