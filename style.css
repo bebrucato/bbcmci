@@ -45,6 +45,8 @@ body {
   .img-size {
       height: 100%;
       width: 100%;
+      border-radius: 5px;
+      box-shadow: 10px rgb(116, 113, 113);
   }
 
   a {
